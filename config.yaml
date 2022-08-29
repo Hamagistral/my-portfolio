@@ -120,10 +120,10 @@ params:
     title: "About Me"
     image: "/about.png"
     content: |-
-      I recently graduated with a Bachelor's Degree in Applied Mathematics, and as the next step I want to pursue a Master's Degree in the Data Science
-      and Machine Learning field. I strongly believe that Machine Learning is the futur, as it can be used to solve many of the complex problems we face in our daily life.
+      I recently graduated with a Bachelor’s Degree in Applied Mathematics, and as the next step I want to pursue a Master’s Degree in the Data Science and Machine Learning field. I strongly believe that Machine Learning is the future, as it can be used to solve many of the complex problems we face in our daily life.
+      
+      I am currently taking the Data Science and Machine Learning courses from DataCamp to sharpen my skills and be better equipped for the upcoming challenges.
 
-      I am currently taking the Data Science and Machine Learning courses from DataCamp to enhance my skills and be better equipped for the upcoming challenges.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently :"
@@ -233,7 +233,7 @@ params:
           I did the following tasks : 
           - Creating the Interface with a stock price data feed
           - Used JPMorgan Chase frameworks and tools
-          - Use dPerspective to create the chart for the trader’s dashboard
+          - Use Perspective (an internal tool) to create the chart for the trader’s dashboard
 
         badges:
           - "Python"
@@ -260,20 +260,19 @@ params:
 
           > **💻 Computer science \:**
           > Programming with C •
-          > Data structures and Algorithms (C) •
-          > Databases (SQL)
+          > Data structures and Algorithms with C •
+          > Databases SQL
 
           > **🧮 Mathematics \:**
           > Linear Algebra 
           > • Calculus
-          > • Discrete Mathematics (Graph theory with Python)
-          > • Arithmetic (Cyrptography and RSA)
-          > • Probability 
-          > • Statistics (R)
-          > • Markov Chains 
-          > • Operational research and Optimization (LINGO)
-          > • Numerical Analysis (Maple)
-          > • Scientific Computing (Matlab)
+          > • Discrete Mathematics 
+          > • Arithmetic & Cyrptography
+          > • Probability & Markov Chains
+          > • Statistics (Used R)
+          > • Operational research and Optimization 
+          > • Numerical Analysis 
+          > • Scientific Computing 
 
           **👨🏻‍💻 Extracurricular Activities** : Member of  **[FSTM IT Club](https://www.linkedin.com/company/fstm-it-club/)**
      
@@ -309,6 +308,7 @@ params:
         url: https://www.freecodecamp.org/certification/magistral/machine-learning-with-python-v7
 
 
+
   # projects
   projects:
     enable: true
@@ -334,7 +334,7 @@ params:
 
       - title: Predicting Optimal Airbnb Appartment Rent Price
         content: Created a price recommendation system based on the KNN algorithm to predict the
-                ideal rental price for a new apartment, added to the Airbnb website based on its features.
+                ideal rental price for a new apartment listed in the Airbnb website, based on its features.
         image: airbnbpred.png
         featured:
           name: Notebook  

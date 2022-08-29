@@ -39,7 +39,7 @@ header .nav-link{
 }
 .navbar-brand {
     color: var(--primary-color) !important;
-    font-size: 18px;
+    font-size: clamp(5px, 8vw, 18px);
     font-family: "Space Mono";
     font-weight: 700;
     opacity: 1;
